@@ -1,0 +1,25 @@
+img {
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+
+.ship {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+}
+
+.bullet {
+    position: absolute;
+}
+
+body {
+    background-color: aqua;
+}
+
+h3 {
+    color: hotpink;
+  }

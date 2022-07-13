@@ -1,0 +1,1 @@
+Check frame rate in Croome browser enetering ctrl + shit + p in dev tools and typing show frames in appeared textbox
